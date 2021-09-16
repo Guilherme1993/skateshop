@@ -1,0 +1,14 @@
+#login {
+    border: solid 1px black;
+    padding: 40px;
+    border-radius: 10px;
+    width: 30%;
+    height: 60%;
+}
+
+#entrar-btn {
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+  }

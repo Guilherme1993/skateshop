@@ -1,0 +1,30 @@
+.fa-shopping-cart {
+    color: white;
+  }
+
+  hr {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 98%;
+    background-color: #1d1d18;
+    height: 1px;
+  }
+
+  body {
+    background-color: #ddd9d9;
+    height: 100vh;
+  }
+
+  h2 {
+    margin: 10px 10px 10px 20px;
+  }
+
+  #login-btn {
+    color: aliceblue;
+    margin-top: -10px;
+    margin-left: 5px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 10px;
+  }
